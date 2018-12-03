@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a47203ba731624597554fb8489c6b2, type: 3}
+  m_Name: "A4. Dire\xE7\xE3o Sul"
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA segue a pista do sangue, na dire\xE7\xE3o Sul.\r\n\r\nVoc\xEA
+    come\xE7a a pensar se foi ou n\xE3o uma boa ideia seguir em dire\xE7\xE3o Sul.
+    O serial killer nunca iria deixar uma pista assim t\xE3o f\xE1cil, ele n\xE3o
+    \xE9 desleixado, pelo contr\xE1rio... ele \xE9 estremamente meticuloso.\r\n\r\nEnt\xE3o...
+    e agora?\r\n1. Tudo bem, vou continuar andando at\xE9 a pr\xF3xima esta\xE7\xE3o,
+    e subir para a rua."
+  nextStates:
+  - {fileID: 11400000, guid: 7331d9d2c33444e4f8eea38d00f23d29, type: 2}

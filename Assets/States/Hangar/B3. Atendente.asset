@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a47203ba731624597554fb8489c6b2, type: 3}
+  m_Name: B3. Atendente
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA conversa com o atendente e, explica a situa\xE7\xE3o, ele n\xE3o
+    da prioridade ao caso e, coloca o atendimento na \"fila\".\r\n\r\n1. Esperar mais
+    um tempo.\r\n2. Come\xE7ar a correr imediatamente em dire\xE7\xE3o Norte"
+  nextStates:
+  - {fileID: 11400000, guid: db0d6250335f2474dab10fb05daa78c3, type: 2}
+  - {fileID: 11400000, guid: 2baabfbec7bd6b442950a269448aeeef, type: 2}

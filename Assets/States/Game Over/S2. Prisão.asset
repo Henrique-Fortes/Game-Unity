@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a47203ba731624597554fb8489c6b2, type: 3}
+  m_Name: "S2. Pris\xE3o"
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA finalmente algema o serial killer e, se sente bem consigo mesmo
+    porque sabe que fez a coisa certa, apesar de querer muito mata - lo ali mesmo
+    como forma de vingan\xE7a.\r\n\r\nEle pega pris\xE3o perp\xE9tua, por conta dos
+    assassinatos cometidos.\r\n\r\nVoc\xEA segue sua vida sem remor\xE7os e, com a
+    consci\xEAncia limpa.\r\n\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: fcca4d4adef349942a85773f00b1d802, type: 2}

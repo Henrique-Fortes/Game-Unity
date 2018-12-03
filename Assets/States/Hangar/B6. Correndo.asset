@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a47203ba731624597554fb8489c6b2, type: 3}
+  m_Name: B6. Correndo
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA est\xE1 correndo na rua, procurando atentamente por algo suspeito.\r\n\r\n\r\n\r\n\r\n1.
+    Continue...oc\xEA est\xE1 correndo na rua, procurando atentamente por algo suspeito.\r\n\r\n\r\n\r\n\r\n1.
+    Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 7331d9d2c33444e4f8eea38d00f23d29, type: 2}

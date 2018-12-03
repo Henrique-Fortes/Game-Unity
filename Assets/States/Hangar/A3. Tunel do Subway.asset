@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a47203ba731624597554fb8489c6b2, type: 3}
+  m_Name: A3. Tunel do Subway
+  m_EditorClassIdentifier: 
+  storyText: "Ok, provavelmente ele fugiu pelo tunel do metro, resta saber qual.\r\n\r\nOlhando
+    em dire\xE7\xE3o ao ch\xE3o, procurando por alguma pista. Encontro uma trilha
+    de sangue em dire\xE7\xE3o Sul da linha de metro.\r\n\r\nO que devo fazer?\r\n\r\n1.
+    Correr na dire\xE7\xE3o Sul.\r\n2. Sair da esta\xE7\xE3o de metro."
+  nextStates:
+  - {fileID: 11400000, guid: 3eef9c3ae811ae94c98701a9e885cf70, type: 2}
+  - {fileID: 11400000, guid: 7331d9d2c33444e4f8eea38d00f23d29, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a47203ba731624597554fb8489c6b2, type: 3}
+  m_Name: S1. Assassinato
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA efetua v\xE1rios disparos, descarregando o pente de sua arma
+    no serial killer. Os tiros acertam o peito, e cabe\xE7a obviamente voc\xEA atirou
+    para matar.\r\n\r\nImediatamente, voc\xEA verifica o corpo dele e encontra uma
+    arma, prontamente monta a cena do crime como se ele tivesse reagido e, voc\xEA
+    tivesse agido em leg\xEDtima defesa. Por sua sorte, as cameras n\xE3o estavam
+    funcionando, obviamente ele teria feito isso para facilitar sua fuga. \r\n\r\nVoc\xEA
+    efetou sua vingan\xE7a, por\xE9m agora ter\xE1 que conviver com o sangue dele
+    em suas m\xE3os.\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: fcca4d4adef349942a85773f00b1d802, type: 2}

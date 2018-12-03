@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a47203ba731624597554fb8489c6b2, type: 3}
+  m_Name: X1. Game Over
+  m_EditorClassIdentifier: 
+  storyText: "Ent\xE3o, claramente essa n\xE3o foi a escolha correta. Voc\xEA foi
+    enganado, por um c\xFAmplice do serial killer que, estava ali estrategicamente
+    posicionado exclusivamente para te enganar!\r\n\r\nVoc\xEA falhou, o suspeito
+    escapou.\r\n\r\nDeseja tentar novamente?\r\n1. Sim, eu quero prender esse filho
+    da ****.\r\n2. N\xE3o, eu n\xE3o sou capaz."
+  nextStates:
+  - {fileID: 11400000, guid: 01737b91ce102074d8f5fd25f6ce6ebc, type: 2}
+  - {fileID: 11400000, guid: fcca4d4adef349942a85773f00b1d802, type: 2}

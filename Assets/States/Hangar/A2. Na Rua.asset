@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a47203ba731624597554fb8489c6b2, type: 3}
+  m_Name: A2. Na Rua
+  m_EditorClassIdentifier: 
+  storyText: "Isso foi um pouco est\xFApido, porque voc\xEA est\xE1 sem bateria no
+    celular e, n\xE3o encontra nenhum policial por perto.\r\n\r\nVoc\xEA precisa encontrar
+    imediatamente o serial killer, antes que ele fuja.\r\n\r\nEnt\xE3o, o que fazer
+    agora Detetive?\r\n\r\n1. Correr at\xE9 o telefone p\xFAblico mais pr\xF3ximo,
+    e pedir refor\xE7o.\r\n2. Perguntar para uma bela mulher que, est\xE1 pr\xF3xima
+    a entrada do Subway se viu o suspeito."
+  nextStates:
+  - {fileID: 11400000, guid: 47b75bfca86d3be4f8423b82bab49123, type: 2}
+  - {fileID: 11400000, guid: d55690d971991cc47a9b19a4d7737ab4, type: 2}

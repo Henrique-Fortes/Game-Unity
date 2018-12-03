@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a47203ba731624597554fb8489c6b2, type: 3}
+  m_Name: "B1. Pedindo Refor\xE7os"
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA corre para o telefone p\xFAblico mais pr\xF3ximo e, pede por
+    refor\xE7os.\r\n\r\nO que dizer?\r\n\r\n1. Aqui \xE9 o Detetive .... preciso de
+    refor\xE7os imediatamente!\r\n2. Al\xF4, gostaria de falar com o Delegado ...
+    \xE9 urgente!"
+  nextStates:
+  - {fileID: 11400000, guid: 9a75243f103459545ab6d6a1c2efc99d, type: 2}
+  - {fileID: 11400000, guid: 9244be70452d9ad41b1304c6f870580b, type: 2}
